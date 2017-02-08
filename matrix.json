@@ -1,0 +1,89 @@
+{"parentCategories":[
+    {
+        "name":"Systems",
+        "childCategories":[
+            {
+                "name":"Environment",
+                "beginner":"Can run web site in local browser.",
+                "intermediate":"Can set up IIS to run mutliple sites locally. Can comfortably navigate and update a Web.config/ht.access file.",
+                "expert":"fill me in"
+            },
+            {
+                "name":"Console/Command Line",
+                "beginner":"fill me in",
+                "intermediate":"fill me in",
+                "expert":"fill me in"
+            },
+            {
+                "name":"Content Delivery",
+                "beginner":"fill me in",
+                "intermediate":"fill me in",
+                "expert":"fill me in"
+            },
+            {
+                "name":"Server Security",
+                "beginner":"fill me in",
+                "intermediate":"fill me in",
+                "expert":"fill me in"
+            }
+        ]
+    },
+    {
+        "name":"Programming",
+        "childCategories":[
+            {
+                "name":"MarkUp Languages",
+                "beginner":"Basic competency in HTML, CSS. Understanding of Elements and Attributes, DOM structure. Exposed to Javascript and jQuery.",
+                "intermediate":"HTML and CSS expert, comfortable using custom Attributes and understands CSS specificity. Can use jQuery or similar Javascript library to create DOM interaction. Exposure to Frameworks like Angular or React and has basic understanding of how to use them. Proficient in building static pages.",
+                "expert":"Expert in HTML, CSS, Javascript. Can discern what libraries should or shouldn't be used and can explain. Can write their own libraries for plug-in functionality. Can write and deploy a browser extension in Javascript. Proficient in building dynamic pages that interact with a webserver. Can comfortably use AJAX and structure JSON objects. Can consume and fully grasp new Frameworks and Libraries and offer critical analysis with minimum exposure."
+            },
+            {
+                "name":"Server-side programming",
+                "beginner":"Understands basic GET/POST requests. Can determine where in the codebase webserver requests are handled, and where a response is returned to the client. Has basic understanding of how markup is manipulated before being returned as response. Has basic knowledge of OOP languages such as C#, Java, Python, etc. Understands conditional operations and syntax. Understands data types and Null handling. ",
+                "intermediate":"fill me in",
+                "expert":"fill me in"
+            },
+            {
+                "name":"Data Handling",
+                "beginner":"Has basic exposure to SQL, can use simple SQL queries. Can query and sort a basic table.",
+                "intermediate":"Intermediate knowledge of SQL. Can run multiple joined queries. Can query manipulate data from database, XML, and JSON objects fluently.",
+                "expert":"Can write and understand when to use Stored Procedures. Understands Relational structures. Fluent SQL."
+            },
+            {
+                "name":"Code structure",
+                "beginner":"Has basic understanding of object scope, knows when to use global or local variables. Has introductory knowledge of Separaton of Concerns and Single responsibility.",
+                "intermediate":"Has understanding of MVC/MVVM structure and can explain benefits. Has introductory knowledge of simple Design Patterns and why they should be used. Can argue for each of the SOLID principles. Understands Dependency Injection and Inversion of Control, comfortable implementing interfaces when appropriate.",
+                "expert":"Understands where and when a certain design pattern should be used. Can argue against each of the SOLID principles. Understands when to remove a mid developers interfaces and refactor to functional code."
+            }
+        ]
+    },
+    {
+        "name":"Knowledge",
+        "childCategories":[
+            {
+                "name":"Page Load Speed",
+                "beginner":"fill me in",
+                "intermediate":"fill me in",
+                "expert":"fill me in"
+            },
+            {
+                "name":"Ad Operations/Tag Management",
+                "beginner":"fill me in",
+                "intermediate":"fill me in",
+                "expert":"fill me in"
+            },
+            {
+                "name":"UI/UX Design",
+                "beginner":"fill me in",
+                "intermediate":"fill me in",
+                "expert":"fill me in"
+            },
+            {
+                "name":"Source Control",
+                "beginner":"fill me in",
+                "intermediate":"fill me in",
+                "expert":"fill me in"
+            }
+        ]
+    }
+]}
